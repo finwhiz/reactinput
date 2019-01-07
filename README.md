@@ -1,9 +1,7 @@
 # reactinput
-React Component For Adding Values to List
+React & Redux script For Adding Values to List and utilizing a global store
 
 Contains State holding input and messages array
 Renders the array to a ul
-Can be modified to return the array back to a server if desired
 
-Component is  the React  only version
-The Redux Store is if you wanted to have a state storage system
+There is the react component, the redux store, and the combined application in this repository
